@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/holta/Documents/GitHub/Stellar-Defender/StellarDefender/Content/Towers/Andromeda/AndromedaTower.uasset",
+				"/Users/holta/Documents/GitHub/Stellar-Defender/StellarDefender/Content/Towers/Andromeda/ABP_AndromedaTower.uasset",
+				"/Users/holta/Documents/GitHub/Stellar-Defender/StellarDefender/Content/Laser/WB_Laser.uasset",
+				"/Users/holta/Documents/GitHub/Stellar-Defender/StellarDefender/Content/Towers/Andromeda/ABP_AndromedaTowerLevel1.uasset",
+				"/Users/holta/Documents/GitHub/Stellar-Defender/StellarDefender/Content/Towers/Andromeda/ABP_AndromedaTower_Level1.uasset",
+				"/Users/holta/Documents/GitHub/Stellar-Defender/StellarDefender/Content/Enemies/Astroid/ABP_Astroid.uasset",
+				"/Users/holta/Documents/GitHub/Stellar-Defender/StellarDefender/Content/Enemies/Comet/ABP_Comet.uasset",
+				"/Users/holta/Documents/GitHub/Stellar-Defender/StellarDefender/Content/Enemies/Spacecraft/ABP_Spacecraft.uasset"
+			]
+		}
+	]
+}
