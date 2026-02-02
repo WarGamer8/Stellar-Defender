@@ -9,10 +9,14 @@
 				"/Users/holta/Documents/GitHub/Stellar-Defender/StellarDefender/Content/Towers/Andromeda/ABP_AndromedaTower.uasset",
 				"/Users/holta/Documents/GitHub/Stellar-Defender/StellarDefender/Content/Laser/WB_Laser.uasset",
 				"/Users/holta/Documents/GitHub/Stellar-Defender/StellarDefender/Content/Towers/Andromeda/ABP_AndromedaTowerLevel1.uasset",
+<<<<<<< Updated upstream
 				"/Users/holta/Documents/GitHub/Stellar-Defender/StellarDefender/Content/Towers/Andromeda/ABP_AndromedaTower_Level1.uasset",
 				"/Users/holta/Documents/GitHub/Stellar-Defender/StellarDefender/Content/Enemies/Astroid/ABP_Astroid.uasset",
 				"/Users/holta/Documents/GitHub/Stellar-Defender/StellarDefender/Content/Enemies/Comet/ABP_Comet.uasset",
 				"/Users/holta/Documents/GitHub/Stellar-Defender/StellarDefender/Content/Enemies/Spacecraft/ABP_Spacecraft.uasset"
+=======
+				"/Users/holta/Documents/GitHub/Stellar-Defender/StellarDefender/Content/Towers/Andromeda/ABP_AndromedaTower_Level1.uasset"
+>>>>>>> Stashed changes
 			]
 		}
 	]
